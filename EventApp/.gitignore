@@ -3,6 +3,10 @@
 /local.properties
 .DS_Store
 /build
+wrapper/
+target/
+daemon/
+native/
 
 /captures
 .externalNativeBuild
